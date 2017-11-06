@@ -1,3 +1,3 @@
 # Small-Stuff
 
-/hackerrank/: Problems done on [hackerrank.com](hackerrank.com/dashboard).
+/hackerrank/: Problems done on [hackerrank.com](https://www.hackerrank.com/dashboard).
