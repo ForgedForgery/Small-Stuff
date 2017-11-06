@@ -19,5 +19,9 @@ class Solution {
         
         Console.WriteLine(end);
     }
+    
+    public String EvenEasierSolution(int[] arr) {
+        return string.Join(" ", arr.Reverse());
+    }
 
 }
