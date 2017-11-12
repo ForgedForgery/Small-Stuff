@@ -1,3 +1,3 @@
 https://www.hackerrank.com/domains/data-structures/arrays
 
-Completed: 4/6
+Completed: 6/6
