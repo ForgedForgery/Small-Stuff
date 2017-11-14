@@ -11,6 +11,24 @@
 // This is a "method-only" submission.
 // You only need to complete this method.
 
+//recursive
+function reverseLinkedList(head) {
+    // recursive until last node is met
+    if(head == null || head.next == null)
+        return head;
+    var newHead = reverseLinkedList(head.next);
+    
+    // reverse the pointer
+    head.next.next = head;
+    
+    // head (now the tail) needs to point to null
+    head.next = null;
+    
+    return newHead;
+}
+
+// non recursive
+// first answer
 function reverseLinkedList(head) {
 
     let h1 = head;
