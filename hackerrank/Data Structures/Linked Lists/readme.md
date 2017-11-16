@@ -1,3 +1,3 @@
 https://www.hackerrank.com/domains/data-structures/linked-lists
 
-Completed: 13/15
+Completed: 14/15
